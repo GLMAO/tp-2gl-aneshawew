@@ -11,3 +11,5 @@ Principe de substitution de Liskov (LSP): les décorateurs et observateurs subst
 Principe de ségrégation des interfaces (ISP): les interfaces sont fines et ciblées.
 
 Principe d’inversion des dépendances (DIP): le code dépend d’abstractions (interfaces ICours, Observer) et non de classes concrètes.
+
+CS(20)
